@@ -12,7 +12,7 @@ The script _launch-cluster.sh_ takes one of the following arguments:
 
 ## launch
 When you pick the _*launch*_ option, it will create a Kuberntes cluster with 3
-e2-medium machines, named _"my-test-cluster-(A RANDOM NUMBER)"_. You can change the name modifying
+e2-medium machines, named *"my-test-cluster-(A RANDOM NUMBER)"*. You can change the name modifying
 the value in the *"gcloud_cluster_name"* variable, inside of the script before
 to deploy.
 
